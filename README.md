@@ -25,11 +25,7 @@ The primary goal is to provide **highly accurate, contextually relevant** inform
 
 The entire project is self-contained within the `Drug_Interaction_Checker_rag.ipynb` Jupyter notebook.
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [Your-Repo-Link-Here]
-    cd [Your-Repo-Name]
-    ```
+
 
 2.  **Install dependencies:**
     You will need `langchain-groq`, `langchain-core`, and potentially other libraries for data loading/embeddings (e.g., `sentence-transformers` or `chromadb`).
