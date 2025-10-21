@@ -1,0 +1,19 @@
+# Core Data Handling
+pandas
+numpy
+
+# LangChain and RAG Framework
+langchain
+langchain-core
+
+# LLM Integration (Groq)
+langchain-groq
+groq
+
+# Vector Store and Embeddings (Common RAG components)
+# You may need to uncomment or replace these based on your specific setup
+# If you used ChromaDB:
+# chromadb
+
+# If you used a local/standard embedding model (e.g., HuggingFace):
+# sentence-transformers
